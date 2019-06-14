@@ -1,6 +1,10 @@
 # A pytorch implementation of ERPP and RMTPP
 
-## Data
+ERPP reference paper is [Modeling the intensity function of point process via recurrent neural networks. (AAAI 2017)](https://arxiv.org/pdf/1705.08982.pdf)
+
+RMTPP reference paper is [Recurrent marked temporal point processes: Embedding event history to vectore.(KDD 2016)](https://www.kdd.org/kdd2016/papers/files/rpp1081-duA.pdf)
+
+## Dataset
 In maintenance support services, when a device fails, the equipment owner raises a maintenance service ticket and technician will be assigned to repair the failure. The studied dataset is comprised of the event logs involving error reporting and failure tickets, which is originally collected from 1,554 ATMs. The event log of error records includes device identity, timestamp, message content, priority, code, and action.
 
 Dataset has been splited into train and test set.
