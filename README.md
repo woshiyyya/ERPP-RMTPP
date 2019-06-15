@@ -49,7 +49,7 @@ python main.py --model=erpp
 You may get the following result:
 MAE=4.9, Precision=0.77, Recall=0.90, F1=0.83
 
-## Run ERPP (Recurrent Marked Temporal Point Process)
+## Run RMTPP (Recurrent Marked Temporal Point Process)
 With default setting:
 ```
 python main.py --model=rmtpp
