@@ -1,4 +1,5 @@
 # A pytorch implementation of ERPP and RMTPP
+This is a course project for SJTU, CS488 Temporal Point Process Modeling.  
 
 ERPP reference paper is [Modeling the intensity function of point process via recurrent neural networks. (AAAI 2017)](https://arxiv.org/pdf/1705.08982.pdf)
 
